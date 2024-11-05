@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 157.75 157.75">
+  <defs>
+    <style>
+      .b {
+        fill: #fff;
+        stroke: #010101;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+    </style>
+  </defs>
+  <ellipse class="b" cx="78.87" cy="126.12" rx="16.72" ry="31.5"/>
+  <ellipse class="b" cx="53.33" cy="118.62" rx="31.5" ry="16.72" transform="translate(-75.3 99.36) rotate(-57.27)"/>
+  <ellipse class="b" cx="35.89" cy="98.5" rx="31.5" ry="16.72" transform="translate(-37.68 23.81) rotate(-24.55)"/>
+  <ellipse class="b" cx="32.11" cy="72.15" rx="16.72" ry="31.5" transform="translate(-43.88 93.66) rotate(-81.82)"/>
+  <ellipse class="b" cx="43.17" cy="47.93" rx="16.72" ry="31.5" transform="translate(-21.33 49.17) rotate(-49.09)"/>
+  <ellipse class="b" cx="65.56" cy="33.54" rx="16.72" ry="31.5" transform="translate(-6.79 19.83) rotate(-16.36)"/>
+  <ellipse class="b" cx="92.19" cy="33.54" rx="31.5" ry="16.72" transform="translate(34.03 112.54) rotate(-73.64)"/>
+  <ellipse class="b" cx="114.58" cy="47.93" rx="31.5" ry="16.72" transform="translate(-3.4 86.74) rotate(-40.91)"/>
+  <ellipse class="b" cx="125.64" cy="72.15" rx="31.5" ry="16.72" transform="translate(-8.99 18.62) rotate(-8.18)"/>
+  <ellipse class="b" cx="121.85" cy="98.5" rx="16.72" ry="31.5" transform="translate(-18.37 168.43) rotate(-65.45)"/>
+  <ellipse class="b" cx="104.42" cy="118.62" rx="16.72" ry="31.5" transform="translate(-47.56 75.28) rotate(-32.73)"/>
+</svg>

@@ -1,0 +1,92 @@
+body{
+    background-color: #664e91;
+}
+div{
+    background-color: #908fb2;
+    color: #fff;
+}
+header{
+    background-color: #908fb2;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    text-align: center;
+}
+header>nav{
+    font-size: larger;
+}
+.about>h2{
+    text-align: center;
+}
+.about{
+    text-align: center;
+}
+.gallery>h2{
+    text-align: center;
+}
+.contact>h2{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+}
+header>nav>a{
+    color: #fff;
+    text-align: center;
+}
+header>img{
+    display: inline-block;
+    max-width: 20rem;
+    margin: 1rem;
+}
+.contact>img{
+    display: inline-block;
+    max-width: 7rem;
+    margin: 1rem;
+}
+.about{
+    padding: 1rem;
+    justify-content: center;
+    align-content: center;
+    max-width: 50rem;
+    margin: 2rem auto;
+}
+.gallery{
+    padding: 1rem;
+    align-content: center;
+    justify-content: center;
+    align-content: center;
+    max-width: 50rem;
+    margin: 2rem auto;
+}
+.contact{
+    padding: 1rem;
+    justify-content: center;
+    align-content: center;
+    max-width: 50rem;
+    margin: 2rem auto;
+}
+.gallery>iframe{
+    display: block;
+    margin: 1rem auto;
+}
+@media (min-width: 1100px){
+    .about{
+        justify-content: center;
+        align-content: center;
+        max-width: 50rem;
+        margin: 2rem auto;
+    }
+    .gallery{
+        margin: 2rem auto;
+        justify-content: center;
+        align-content: center;
+    }
+    .contact{
+        max-width: 50rem;
+        margin: 2rem auto;
+        justify-content: center;
+        align-content: center;
+    }
+}

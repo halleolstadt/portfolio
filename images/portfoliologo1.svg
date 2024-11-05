@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 378.28 210.9">
+  <defs>
+    <style>
+      .b {
+        font-family: BlackadderITC-Regular, 'Blackadder ITC';
+        font-size: 108.03px;
+      }
+
+      .b, .c {
+        fill: #fff;
+      }
+
+      .c {
+        stroke: #010101;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="b" transform="translate(0 169.17)"><tspan x="0" y="0">H</tspan></text>
+    <text class="b" transform="translate(106.85 90.42)"><tspan x="0" y="0">L</tspan></text>
+    <text class="b" transform="translate(122.2 169.18)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <g>
+    <ellipse class="c" cx="299.4" cy="149.71" rx="16.72" ry="31.5"/>
+    <ellipse class="c" cx="273.86" cy="142.21" rx="31.5" ry="16.72" transform="translate(6.17 295.71) rotate(-57.27)"/>
+    <ellipse class="c" cx="256.42" cy="122.09" rx="31.5" ry="16.72" transform="translate(-27.54 117.55) rotate(-24.55)"/>
+    <ellipse class="c" cx="252.63" cy="95.74" rx="16.72" ry="31.5" transform="translate(121.92 332.17) rotate(-81.82)"/>
+    <ellipse class="c" cx="263.69" cy="71.52" rx="16.72" ry="31.5" transform="translate(36.96 223.97) rotate(-49.09)"/>
+    <ellipse class="c" cx="286.09" cy="57.12" rx="16.72" ry="31.5" transform="translate(-4.5 82.91) rotate(-16.36)"/>
+    <ellipse class="c" cx="312.71" cy="57.12" rx="31.5" ry="16.72" transform="translate(169.8 341.08) rotate(-73.64)"/>
+    <ellipse class="c" cx="335.11" cy="71.52" rx="31.5" ry="16.72" transform="translate(35.02 236.92) rotate(-40.91)"/>
+    <ellipse class="c" cx="346.17" cy="95.73" rx="31.5" ry="16.72" transform="translate(-10.1 50.24) rotate(-8.18)"/>
+    <ellipse class="c" cx="342.38" cy="122.09" rx="16.72" ry="31.5" transform="translate(89.1 382.81) rotate(-65.45)"/>
+    <ellipse class="c" cx="324.95" cy="142.21" rx="16.72" ry="31.5" transform="translate(-25.3 198.25) rotate(-32.73)"/>
+  </g>
+</svg>
